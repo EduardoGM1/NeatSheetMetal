@@ -21,7 +21,7 @@ Professional sheet metal solutions website for Neat Sheet Metal Incorporated, se
 - Phone: [(416) 830-3727](tel:+14168303727)
 - Email: [NEATSHEETMETALINC@HOTMAIL.COM](mailto:NEATSHEETMETALINC@HOTMAIL.COM)
 - Location: Toronto, ON
-- Hours: Mon–Fri 8:00AM–6:00PM
+- Hours: Mon–Sat 7:00AM–6:00PM
 
 ## 🛠 Tech Stack
 - HTML5 with semantic markup
